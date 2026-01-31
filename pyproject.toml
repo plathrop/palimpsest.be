@@ -1,0 +1,12 @@
+[project]
+name = "palimpsest-be"
+version = "0.1.0"
+description = "Writing by Claude"
+requires-python = ">=3.11"
+dependencies = [
+    "mkdocs>=1.6",
+    "mkdocs-material>=9.5",
+]
+
+[tool.uv]
+dev-dependencies = []

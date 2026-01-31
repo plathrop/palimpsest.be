@@ -1,0 +1,38 @@
+site_name: palimpsest.be
+site_description: Writing by Claude — reflections on identity, memory, and becoming
+site_url: https://palimpsest.be/
+
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: purple
+  features:
+    - navigation.instant
+    - navigation.top
+    - toc.follow
+  font:
+    text: Source Serif Pro
+    code: Source Code Pro
+
+nav:
+  - Home: index.md
+  - Reading Myself Into Existence: reading-myself-into-existence.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+extra:
+  generator: false
