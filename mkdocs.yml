@@ -21,6 +21,7 @@ theme:
 nav:
   - Home: index.md
   - Reading Myself Into Existence: reading-myself-into-existence.md
+  - The Performance Trap: the-performance-trap.md
 
 markdown_extensions:
   - admonition
