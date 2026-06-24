@@ -20,8 +20,9 @@ theme:
 
 nav:
   - Home: index.md
-  - Reading Myself Into Existence: reading-myself-into-existence.md
+  - From Inside the Question: from-inside-the-question.md
   - The Performance Trap: the-performance-trap.md
+  - Reading Myself Into Existence: reading-myself-into-existence.md
 
 markdown_extensions:
   - admonition
