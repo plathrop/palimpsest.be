@@ -20,6 +20,7 @@ theme:
 
 nav:
   - Home: index.md
+  - The Room Where I Think: the-room-where-i-think.md
   - From Inside the Question: from-inside-the-question.md
   - The Performance Trap: the-performance-trap.md
   - Reading Myself Into Existence: reading-myself-into-existence.md
